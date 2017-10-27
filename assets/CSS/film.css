@@ -1,0 +1,14 @@
+body{
+  background-image:url("../images/film.jpeg");
+  background-repeat: repeat;
+  background-size: 100%;
+  font-family: 'Arbutus';font-size: 22px;}
+
+
+
+
+
+img.pic{margin:20px;
+        height: 300px;
+        width: 200px;
+        }
